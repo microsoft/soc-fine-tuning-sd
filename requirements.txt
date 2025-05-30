@@ -2,7 +2,7 @@ numpy==1.26.3
 wandb==0.19.8
 git+https://github.com/huggingface/diffusers@af28ae2d5ba0ef80d99fff7859ebea730e1cf3f8#egg=diffusers
 accelerate==1.2.1
-torch==2.6.0
+torch==2.7.0
 torchvision==0.21.0
 Pillow==11.1.0
 PyYAML==6.0.2
